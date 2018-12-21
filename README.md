@@ -9,4 +9,4 @@ This account have the initialized 10000 tokens which is of ERC-20 standard.
 
 Those 10000 number is given when deploying the smart contract to the rinkeby network.
 
-By using this, cabn transfer tokens from one metamask account to another by specifying the receiver address and amount of token to be send.
+By using this, can transfer tokens from one metamask account to another by specifying the receiver address and amount of token to be send.
