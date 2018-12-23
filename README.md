@@ -2,7 +2,7 @@
 Beginner experiment on Token(ERC-20) share in Ethereum.
 
 import this account to metamask.
-Private Key :  "2551E0AEBFDBE156A030EA7C570F8C8CAEE5316B3E51A632CCE38A4C416C1025"
+Private Key :  "FEEA1ECF130464C9B3088EC763D28AE4816694FD30790B0631FAF41363E64D85"
 
 Contract deployed to the rinkeby test network from this account number.
 This account have the initialized 10000 tokens which is of ERC-20 standard.
